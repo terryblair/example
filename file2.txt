@@ -13,3 +13,7 @@ capable
 
 test
 test
+
+cute 
+clever
+
