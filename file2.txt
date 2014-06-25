@@ -9,3 +9,4 @@ bouncy
 beefy
 bulgy
 beautiful
+capable
